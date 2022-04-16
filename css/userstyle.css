@@ -1,0 +1,23 @@
+header{
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 5px;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/Equine-Hero.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 50%;
+}
+
+.header-2{
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 5px;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/baf1a3_423e812489e9410fa37f33c8b2983d9e_mv2.webp) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 50%;
+}
